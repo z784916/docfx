@@ -167,6 +167,89 @@ references:
   isSpec: "True"
   fullName: HelloDocfx.Class1.Value
   nameWithType: Class1.Value
+- uid: HelloWorld
+  name: HelloWorld
+  href: api/HelloWorld.html
+  commentId: N:HelloWorld
+  fullName: HelloWorld
+  nameWithType: HelloWorld
+- uid: HelloWorld.HClass1
+  name: HClass1
+  href: api/HelloWorld.HClass1.html
+  commentId: T:HelloWorld.HClass1
+  fullName: HelloWorld.HClass1
+  nameWithType: HClass1
+- uid: HelloWorld.HClass1.#ctor(System.Int32)
+  name: HClass1(Int32)
+  href: api/HelloWorld.HClass1.html#HelloWorld_HClass1__ctor_System_Int32_
+  commentId: M:HelloWorld.HClass1.#ctor(System.Int32)
+  fullName: HelloWorld.HClass1.HClass1(System.Int32)
+  nameWithType: HClass1.HClass1(Int32)
+- uid: HelloWorld.HClass1.#ctor*
+  name: HClass1
+  href: api/HelloWorld.HClass1.html#HelloWorld_HClass1__ctor_
+  commentId: Overload:HelloWorld.HClass1.#ctor
+  isSpec: "True"
+  fullName: HelloWorld.HClass1.HClass1
+  nameWithType: HClass1.HClass1
+- uid: HelloWorld.HClass1.HConvertToDouble
+  name: HConvertToDouble()
+  href: api/HelloWorld.HClass1.html#HelloWorld_HClass1_HConvertToDouble
+  commentId: M:HelloWorld.HClass1.HConvertToDouble
+  fullName: HelloWorld.HClass1.HConvertToDouble()
+  nameWithType: HClass1.HConvertToDouble()
+- uid: HelloWorld.HClass1.HConvertToDouble*
+  name: HConvertToDouble
+  href: api/HelloWorld.HClass1.html#HelloWorld_HClass1_HConvertToDouble_
+  commentId: Overload:HelloWorld.HClass1.HConvertToDouble
+  isSpec: "True"
+  fullName: HelloWorld.HClass1.HConvertToDouble
+  nameWithType: HClass1.HConvertToDouble
+- uid: HelloWorld.HClass1.HSetInnerClass(System.String,HelloWorld.HClass1.InnerClass)
+  name: HSetInnerClass(String, HClass1.InnerClass)
+  href: api/HelloWorld.HClass1.html#HelloWorld_HClass1_HSetInnerClass_System_String_HelloWorld_HClass1_InnerClass_
+  commentId: M:HelloWorld.HClass1.HSetInnerClass(System.String,HelloWorld.HClass1.InnerClass)
+  fullName: HelloWorld.HClass1.HSetInnerClass(System.String, HelloWorld.HClass1.InnerClass)
+  nameWithType: HClass1.HSetInnerClass(String, HClass1.InnerClass)
+- uid: HelloWorld.HClass1.HSetInnerClass*
+  name: HSetInnerClass
+  href: api/HelloWorld.HClass1.html#HelloWorld_HClass1_HSetInnerClass_
+  commentId: Overload:HelloWorld.HClass1.HSetInnerClass
+  isSpec: "True"
+  fullName: HelloWorld.HClass1.HSetInnerClass
+  nameWithType: HClass1.HSetInnerClass
+- uid: HelloWorld.HClass1.HValue
+  name: HValue
+  href: api/HelloWorld.HClass1.html#HelloWorld_HClass1_HValue
+  commentId: P:HelloWorld.HClass1.HValue
+  fullName: HelloWorld.HClass1.HValue
+  nameWithType: HClass1.HValue
+- uid: HelloWorld.HClass1.HValue*
+  name: HValue
+  href: api/HelloWorld.HClass1.html#HelloWorld_HClass1_HValue_
+  commentId: Overload:HelloWorld.HClass1.HValue
+  isSpec: "True"
+  fullName: HelloWorld.HClass1.HValue
+  nameWithType: HClass1.HValue
+- uid: HelloWorld.HClass1.InnerClass
+  name: HClass1.InnerClass
+  href: api/HelloWorld.HClass1.InnerClass.html
+  commentId: T:HelloWorld.HClass1.InnerClass
+  fullName: HelloWorld.HClass1.InnerClass
+  nameWithType: HClass1.InnerClass
+- uid: HelloWorld.HClass1.InnerClass.Name
+  name: Name
+  href: api/HelloWorld.HClass1.InnerClass.html#HelloWorld_HClass1_InnerClass_Name
+  commentId: P:HelloWorld.HClass1.InnerClass.Name
+  fullName: HelloWorld.HClass1.InnerClass.Name
+  nameWithType: HClass1.InnerClass.Name
+- uid: HelloWorld.HClass1.InnerClass.Name*
+  name: Name
+  href: api/HelloWorld.HClass1.InnerClass.html#HelloWorld_HClass1_InnerClass_Name_
+  commentId: Overload:HelloWorld.HClass1.InnerClass.Name
+  isSpec: "True"
+  fullName: HelloWorld.HClass1.InnerClass.Name
+  nameWithType: HClass1.InnerClass.Name
 - uid: maptest
   name: maptest
   href: api/maptest.html

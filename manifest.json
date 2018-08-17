@@ -9,10 +9,10 @@
       "output": {
         ".html": {
           "relative_path": "api-vb/ClassLibrary1.Class2.InnerClass.html",
-          "hash": "NBuOGJIbxYWC23C5EEijOw=="
+          "hash": "Lot/NLOUaTfum4tj1m2xZQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -21,10 +21,10 @@
       "output": {
         ".html": {
           "relative_path": "api-vb/ClassLibrary1.Class2.html",
-          "hash": "15jPKZopxfA6yQHrdVijjA=="
+          "hash": "BoEfQAmlB8tJkUoNRvdF8w=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -33,10 +33,10 @@
       "output": {
         ".html": {
           "relative_path": "api-vb/ClassLibrary1.html",
-          "hash": "B/3nSiFmJoEQDX3DQWqWng=="
+          "hash": "G3tu2zDh8h37u+iwVlbbIg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -57,10 +57,10 @@
       "output": {
         ".html": {
           "relative_path": "api/HelloDocfx.Class1.InnerClass.html",
-          "hash": "p6q6p8UAc/tUiv8XMRoVAw=="
+          "hash": "wgAs4+kPjM79Wb7pGPkzTQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -69,10 +69,10 @@
       "output": {
         ".html": {
           "relative_path": "api/HelloDocfx.Class1.html",
-          "hash": "BMcoa7DApBKDFVJXjD8CXg=="
+          "hash": "CSORGjZ6eKIalNgC+JpJyQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -81,10 +81,46 @@
       "output": {
         ".html": {
           "relative_path": "api/HelloDocfx.html",
-          "hash": "GjksMRVXZinORY6JBG525A=="
+          "hash": "ASvIaRI4zf1jYw6BqURMUg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HelloWorld.HClass1.InnerClass.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HelloWorld.HClass1.InnerClass.html",
+          "hash": "89rC+nOoPdB6fZJkvhwfCg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HelloWorld.HClass1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HelloWorld.HClass1.html",
+          "hash": "+fLgnx+ftQJrzPHXR4ALGQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HelloWorld.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HelloWorld.html",
+          "hash": "SlKTqmLrtqam3r0meUKcAA=="
+        }
+      },
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -96,7 +132,7 @@
           "hash": "1Fhq+19UQ4P5HjJ6rpbVSA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -105,10 +141,10 @@
       "output": {
         ".html": {
           "relative_path": "api/maptest.BingMaps.html",
-          "hash": "g68vNXohnt7h37+GjWl5Hg=="
+          "hash": "lrEaw2RNHF/rRt0I/h5fcw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -117,7 +153,7 @@
       "output": {
         ".html": {
           "relative_path": "api/maptest.Form1.html",
-          "hash": "hEEvpyIfOPTeK8X4uBPEug=="
+          "hash": "OAoHbOeGrQ21qr7O7AEszg=="
         }
       },
       "is_incremental": false,
@@ -129,7 +165,7 @@
       "output": {
         ".html": {
           "relative_path": "api/maptest.Form2.html",
-          "hash": "IGNQffsDTJpqn3oLALYTIA=="
+          "hash": "QPb+id/DSQ/TBsgpUozYzA=="
         }
       },
       "is_incremental": false,
@@ -141,7 +177,7 @@
       "output": {
         ".html": {
           "relative_path": "api/maptest.Form3.html",
-          "hash": "7332jonxT13WiVNOns7jJA=="
+          "hash": "a3onH1vr2GKtj5Uy4ODFsg=="
         }
       },
       "is_incremental": false,
@@ -153,7 +189,7 @@
       "output": {
         ".html": {
           "relative_path": "api/maptest.MapView.html",
-          "hash": "uU173eQ33jkjMqkQzWYeMw=="
+          "hash": "rQ2gGn+GuCHZe86qvMvTZQ=="
         }
       },
       "is_incremental": false,
@@ -165,7 +201,7 @@
       "output": {
         ".html": {
           "relative_path": "api/maptest.MrtLayer.html",
-          "hash": "sMcO5MrNeTeBzRx9LITKvg=="
+          "hash": "Xi0XOqUFm47HlVh2B+LOcQ=="
         }
       },
       "is_incremental": false,
@@ -177,7 +213,7 @@
       "output": {
         ".html": {
           "relative_path": "api/maptest.login.html",
-          "hash": "Ks5Is3pQLInXz4TArFMJmw=="
+          "hash": "+5L7BXvxiSpYpdihs/Sdzg=="
         }
       },
       "is_incremental": false,
@@ -189,7 +225,7 @@
       "output": {
         ".html": {
           "relative_path": "api/maptest.html",
-          "hash": "tZOKtxyJ+kJfN5cAkkHYLw=="
+          "hash": "fAKM709fjnsWA1eCbWdchA=="
         }
       },
       "is_incremental": false,
@@ -201,7 +237,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "Z0Ovy5Q08MbZXrMLcWOzFQ=="
+          "hash": "7ow0oSLDOkdxwOAryfXthA=="
         }
       },
       "is_incremental": false,
@@ -216,7 +252,7 @@
           "hash": "1YSQ/C3g66mu4p1lKqlwZQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -228,7 +264,7 @@
           "hash": "bNaxx/p56JWCuPrfJ9kk7Q=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -240,7 +276,7 @@
           "hash": "bNaxx/p56JWCuPrfJ9kk7Q=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -252,7 +288,7 @@
           "hash": "S/FVLodl9jBdIWERfm1V5Q=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -276,7 +312,7 @@
           "hash": "bhMMfA+0CFDogrynGmeXnA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
