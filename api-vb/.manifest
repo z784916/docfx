@@ -1,0 +1,10 @@
+{
+  "ClassLibrary1": "ClassLibrary1.yml",
+  "ClassLibrary1.Class2": "ClassLibrary1.Class2.yml",
+  "ClassLibrary1.Class2.#ctor(System.Int32)": "ClassLibrary1.Class2.yml",
+  "ClassLibrary1.Class2.ConvertToDouble": "ClassLibrary1.Class2.yml",
+  "ClassLibrary1.Class2.InnerClass": "ClassLibrary1.Class2.InnerClass.yml",
+  "ClassLibrary1.Class2.InnerClass.Name": "ClassLibrary1.Class2.InnerClass.yml",
+  "ClassLibrary1.Class2.SetInnerClass(System.String,ClassLibrary1.Class2.InnerClass)": "ClassLibrary1.Class2.yml",
+  "ClassLibrary1.Class2.Value": "ClassLibrary1.Class2.yml"
+}
